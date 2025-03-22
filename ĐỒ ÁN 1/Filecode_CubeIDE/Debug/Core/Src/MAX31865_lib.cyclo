@@ -1,0 +1,4 @@
+MAX31865_lib.c:42:6:MAX31865_Init	7
+MAX31865_lib.c:79:9:MAX31865_Configuration_info	1
+MAX31865_lib.c:95:8:MAX31865_Get_Temperature	2
+MAX31865_lib.c:150:8:MAX31865_Get_Temperature_math	2
